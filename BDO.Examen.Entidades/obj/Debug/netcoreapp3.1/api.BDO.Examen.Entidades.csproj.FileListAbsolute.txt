@@ -1,0 +1,9 @@
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\bin\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.deps.json
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\bin\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.dll
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\bin\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.pdb
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\obj\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.csprojAssemblyReference.cache
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\obj\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.AssemblyInfoInputs.cache
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\obj\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.AssemblyInfo.cs
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\obj\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.csproj.CoreCompileInputs.cache
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\obj\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.dll
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Entidades\obj\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.pdb

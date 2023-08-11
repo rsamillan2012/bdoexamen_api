@@ -1,0 +1,15 @@
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\bin\Debug\netcoreapp3.1\api.BDO.Examen.Datos.deps.json
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\bin\Debug\netcoreapp3.1\api.BDO.Examen.Datos.runtimeconfig.json
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\bin\Debug\netcoreapp3.1\api.BDO.Examen.Datos.runtimeconfig.dev.json
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\bin\Debug\netcoreapp3.1\api.BDO.Examen.Datos.dll
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\bin\Debug\netcoreapp3.1\api.BDO.Examen.Datos.pdb
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\obj\Debug\netcoreapp3.1\api.BDO.Examen.Datos.csprojAssemblyReference.cache
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\obj\Debug\netcoreapp3.1\api.BDO.Examen.Datos.AssemblyInfoInputs.cache
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\obj\Debug\netcoreapp3.1\api.BDO.Examen.Datos.AssemblyInfo.cs
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\obj\Debug\netcoreapp3.1\api.BDO.Examen.Datos.csproj.CoreCompileInputs.cache
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\obj\Debug\netcoreapp3.1\api.BDO.Examen.Datos.csproj.CopyComplete
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\obj\Debug\netcoreapp3.1\api.BDO.Examen.Datos.dll
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\obj\Debug\netcoreapp3.1\api.BDO.Examen.Datos.pdb
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\obj\Debug\netcoreapp3.1\api.BDO.Examen.Datos.genruntimeconfig.cache
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\bin\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.dll
+C:\common\examen_bdo\BDO.Examen01\BDO.Examen.Datos\bin\Debug\netcoreapp3.1\api.BDO.Examen.Entidades.pdb
